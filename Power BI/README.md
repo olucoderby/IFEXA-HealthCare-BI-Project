@@ -38,15 +38,17 @@ The dashboard was designed to help management have an idea on:
 The dataset contains details about the hospital's performance and patients' experiences.
 
 Key fields include:
-- revenue
-- patients
-- outcome
-- diagnoses
-- state
-- branch
-- service
-- age
-- gender 
-- department
+- Revenue
+- Profit
+- Patients
+- Visits
+- Outcome
+- Diagnoses
+- State
+- Branch
+- Service
+- Age
+- Gender 
+- Department
 
 
